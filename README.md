@@ -36,3 +36,22 @@ This is a simple Python project that generates secure random passwords.
 
 ## Author
 Karunakar Reddy
+# Weather App
+
+## Description
+A Python application that fetches real-time weather information using the OpenWeatherMap API.
+
+## Features
+- Enter city name
+- Shows temperature
+- Shows humidity
+- Shows weather condition
+- Shows wind speed
+
+## Technologies Used
+- Python
+- Requests
+- OpenWeatherMap API
+
+## Author
+Karunakar Reddy
